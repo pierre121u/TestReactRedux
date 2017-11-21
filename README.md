@@ -11,3 +11,7 @@ Utilisant les technologies React et Redux,
 Avec le framework CSS Materialize : https://react-materialize.github.io/ & http://materializecss.com/
 Moteur de recherche en lien avec une API REST: https://swapi.co/
  
+Vous retrouverez dans le header la possibilité de choisir le type de donnée que vous voulez afficher,
+entre autre : Starships / People / Vehicles / Planets / Species / Films
+Puis une série de filtres en fonction du type de donnée,
+Enfin un affichage de chaque donnée.
