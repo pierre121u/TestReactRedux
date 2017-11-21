@@ -15,3 +15,5 @@ Vous retrouverez dans le header la possibilité de choisir le type de donnée qu
 entre autre : Starships / People / Vehicles / Planets / Species / Films
 Puis une série de filtres en fonction du type de donnée,
 Enfin un affichage de chaque donnée.
+
+Des améliorations peuvent encore y être apporter.
